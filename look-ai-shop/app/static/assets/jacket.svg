@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#d9cbb8"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M260 230 L340 175 L460 175 L540 230 L610 515 L535 540 L505 355 L500 780 L300 780 L295 355 L265 540 L190 515 Z" fill="#a89273"/><path d="M340 175 L400 300 L460 175 L430 410 L370 410 Z" fill="#eee4d6"/><line x1="400" y1="300" x2="400" y2="780" stroke="#6f604e" stroke-width="8"/><circle cx="422" cy="480" r="9" fill="#6f604e"/><circle cx="422" cy="555" r="9" fill="#6f604e"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Жакет Sand</text>
+</svg>

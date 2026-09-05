@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#dfd5c7"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M270 230 L335 175 L400 220 L465 175 L530 230 L600 520 L525 545 L495 365 L500 780 L300 780 L305 365 L275 545 L200 520 Z" fill="#b8a687"/><path d="M335 175 L400 220 L465 175 L430 330 L370 330 Z" fill="#d7ccb9"/><line x1="400" y1="220" x2="400" y2="780" stroke="#84765f" stroke-width="7"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Кардиган Oat</text>
+</svg>

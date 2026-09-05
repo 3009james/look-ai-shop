@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#e7e1d8"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M270 220 L340 175 L400 230 L460 175 L530 220 L620 420 L545 455 L510 370 L500 780 L300 780 L290 370 L255 455 L180 420 Z" fill="#f8f6f1" stroke="#c9c1b6" stroke-width="5"/><path d="M340 175 L400 230 L360 295 L315 205 M460 175 L400 230 L440 295 L485 205" fill="#ece8e0" stroke="#c9c1b6" stroke-width="4"/><line x1="400" y1="235" x2="400" y2="780" stroke="#c9c1b6" stroke-width="4"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Рубашка Cloud</text>
+</svg>

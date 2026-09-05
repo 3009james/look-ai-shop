@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#e8dfd3"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M315 230 Q340 165 400 165 Q460 165 485 230 L520 700 L280 700 Z" fill="#f7f1e7" stroke="#cfc5b6" stroke-width="5"/><path d="M335 210 Q400 265 465 210" fill="none" stroke="#cfc5b6" stroke-width="5"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Топ Ivory</text>
+</svg>

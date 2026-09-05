@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#d7dbe0"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M295 170 L505 170 L530 470 L490 830 L400 830 L390 470 L360 830 L270 830 L275 470 Z" fill="#6687a6"/><path d="M295 240 Q400 275 505 240" fill="none" stroke="#d4e0ea" stroke-width="5"/><line x1="400" y1="180" x2="390" y2="470" stroke="#496d90" stroke-width="5"/><path d="M305 185 Q330 300 385 315 M495 185 Q470 300 415 315" fill="none" stroke="#496d90" stroke-width="4"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Джинсы Straight Blue</text>
+</svg>

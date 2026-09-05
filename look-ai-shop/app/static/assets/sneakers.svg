@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#e5e0d8"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M160 560 Q230 500 330 520 L430 610 L610 655 Q665 680 630 745 L220 745 Q145 735 135 675 Z" fill="#f8f7f3" stroke="#bfbcb5" stroke-width="6"/><path d="M325 530 L270 650 M350 550 L300 660 M375 570 L330 670" stroke="#bfbcb5" stroke-width="8"/><path d="M150 700 L635 700" stroke="#a8a59f" stroke-width="10"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Кеды Milk</text>
+</svg>

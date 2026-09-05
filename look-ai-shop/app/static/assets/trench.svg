@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#d9cbb6"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M260 220 L335 170 L400 225 L465 170 L540 220 L625 500 L550 530 L510 365 L525 820 L275 820 L290 365 L250 530 L175 500 Z" fill="#b29a78"/><path d="M335 170 L400 225 L350 330 L300 205 M465 170 L400 225 L450 330 L500 205" fill="#cbb89c"/><rect x="280" y="470" width="240" height="28" rx="14" fill="#7f6b51"/><line x1="400" y1="235" x2="400" y2="820" stroke="#8d765a" stroke-width="5"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Тренч Stone</text>
+</svg>

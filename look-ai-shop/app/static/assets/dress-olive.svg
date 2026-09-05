@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#d9ddcf"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M330 170 Q400 135 470 170 L495 310 L585 785 Q400 845 215 785 L305 310 Z" fill="#68765b"/><path d="M330 170 Q400 245 470 170" fill="none" stroke="#c9d1be" stroke-width="8"/><path d="M305 420 Q400 460 495 420" fill="none" stroke="#879478" stroke-width="5"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Платье Olive Air</text>
+</svg>

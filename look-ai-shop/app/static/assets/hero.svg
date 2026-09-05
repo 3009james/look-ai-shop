@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900">
+<rect width="800" height="900" fill="#d9cab8"/>
+<ellipse cx="400" cy="820" rx="260" ry="35" fill="#9b866f" opacity=".25"/>
+<circle cx="400" cy="155" r="70" fill="#c99178"/>
+<path d="M325 235 Q400 205 475 235 L535 490 L480 510 L455 350 L470 690 L330 690 L345 350 L320 510 L265 490 Z" fill="#f0ede6"/>
+<path d="M330 690 L385 690 L370 825 L315 825 Z M415 690 L470 690 L485 825 L430 825 Z" fill="#6e87a2"/>
+<path d="M295 815 L375 815 L390 845 L285 845 Z M425 815 L505 815 L515 845 L410 845 Z" fill="#f6f4ef"/>
+<path d="M505 440 Q590 465 610 550 L560 565 Q540 500 485 490 Z" fill="#7d3347"/>
+<text x="400" y="90" text-anchor="middle" font-family="Arial" font-size="18" letter-spacing="7" fill="#564a3f">LOOK AI / 01</text>
+</svg>

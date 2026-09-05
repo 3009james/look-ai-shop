@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#d5d4d0"/>
+<circle cx="650" cy="160" r="120" fill="#203f32" opacity=".07"/>
+<circle cx="120" cy="830" r="170" fill="#fff" opacity=".18"/>
+<path d="M300 180 L500 180 L520 455 L495 835 L400 835 L390 470 L365 835 L270 835 L280 455 Z" fill="#555754"/><path d="M300 245 Q400 275 500 245" fill="none" stroke="#82847f" stroke-width="5"/><line x1="400" y1="190" x2="390" y2="470" stroke="#777974" stroke-width="4"/>
+<text x="54" y="920" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#171714" opacity=".58">LOOK AI</text>
+<text x="54" y="955" font-family="Georgia, serif" font-size="28" fill="#171714">Брюки Wide Graphite</text>
+</svg>
